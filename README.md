@@ -1,2 +1,2 @@
-# _pygame_server_pong_
-Simple ping pong with local server
+# _pygame__pong_
+Simple ping pong for two people
